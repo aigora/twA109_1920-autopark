@@ -13,5 +13,6 @@ Sanz Martínez, Adrián @adrismap
 
 Lista de los objetivos que se persiguen con el trabajo propuesto:                                                                          
                                                                                                                                            
-Objetivo Principal: Aparcar sin necesidad de utilizar ningún mando radio-control
-Objetivos Secundarios: Realizar con el coche cualquier tipo de aparcamiento
+Objetivo Principal: Aparcar sin necesidad de utilizar ningún mando radio-control.
+                                                                                                                                          
+Objetivos Secundarios: Realizar con el coche cualquier tipo de aparcamiento.
