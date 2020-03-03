@@ -4,8 +4,8 @@ Nuestro proyecto se basará principalmente en desarrollar un programa para que u
 
 ## Integrantes del equipo
 
-Romero Souto, Andrés <andresrosouto>
-Sanz Martínez, Adrián <adrismap>
+Romero Souto, Andrés @andresrosouto \n
+Sanz Martínez, Adrián @adrismap
   
 
 ## Objetivos del trabajo
