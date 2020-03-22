@@ -20,8 +20,7 @@ Objetivos Secundarios: Realizar con el coche cualquier tipo de aparcamiento.
 
 ## Elementos Hardware previstos y lenguaje
 
-Trabajaremos con una placa de Arduino, que incorporaremos al coche, y desde el ordenador, donde realizaremos la programación. También utilizaremos motores, baterías y sensores de velocidad y de ultrasonido para realizar la maniobra.
- y lenguaje C++.                                                                                                                                                                                                                                    
+Trabajaremos con una placa de Arduino, que incorporaremos al coche, y desde el ordenador, donde realizaremos la programación. También utilizaremos motores, baterías y sensores de velocidad y de ultrasonido para realizar la maniobra. La programación se llevará a cabo en lenguaje C++  mediante arduino.                                                                                                                                                                                                                                 
 
 
 ## 
