@@ -131,14 +131,14 @@ if((Sensor_der > limite_minimo)&&(Sensor_der < limite_minimo1)&&(Sensor_tras_der
 { 
 Movimiento_Robot(avanzar, 100); 
 estado_aparcamiento  = 2;Serial.println(estado_aparcamiento ); 
-} /*
+} 
 if((Sensor_der >= limite_minimo1)&&(Sensor_tras_der >= limite_minimo1)&&(estado_aparcamiento  == 1)) 
 { 
-Decision Aparcamiento En Verical  
+/*Decision Aparcamiento En Verical*/  
 Parar_Robot() ; 
 delay(500); 
 estado_aparcamiento  = 10;Serial.println(estado_aparcamiento ); 
-}  */
+}  
 if((Sensor_der <= limite_minimo)&&(Sensor_tras_der <= limite_minimo)&&(estado_aparcamiento  == 2)) 
 { 
 /* Decision Aparcamiento En Paralelo */
